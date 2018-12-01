@@ -26,5 +26,12 @@ public class LoadScene : MonoBehaviour {
     {
         SceneManager.LoadScene("Painting");
     }
-
+    public void cubeNinjaLoad()
+    {
+        SceneManager.LoadScene("CubeNinja");
+    }
+    public void highScorePageLoad()
+    {
+        SceneManager.LoadScene("HighScores");
+    }
 }

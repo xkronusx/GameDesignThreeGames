@@ -61,12 +61,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\HighScorePage.cs" />
     <Compile Include="Assets\Scripts\BubbleMover.cs" />
     <Compile Include="Assets\Scripts\BubbleSpawner.cs" />
     <Compile Include="Assets\Scripts\ChangeColor.cs" />
+    <Compile Include="Assets\Scripts\CubeNinjaGame.cs" />
+    <Compile Include="Assets\Scripts\CubeSpawner.cs" />
     <Compile Include="Assets\Scripts\ErasePaint.cs" />
     <Compile Include="Assets\Scripts\LoadScene.cs" />
     <Compile Include="Assets\Scripts\PaintingGame.cs" />
+    <Compile Include="Assets\Scripts\PhysicsCube.cs" />
+    <Compile Include="Assets\Scripts\SwipeTail.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Franky/Documents/A5-Franky-104137084/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
